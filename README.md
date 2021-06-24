@@ -3,7 +3,7 @@
 
 **pedrohrb7/pedrohrb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[cobalt_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Pedro&repo=github-readme-stats&cache_seconds=86400&theme=cobalt
+[My Github stats]: https://github-readme-stats.vercel.app/api/pin/?username=pedrohrb7&repo=github-readme-stats&cache_seconds=86400&theme=cobalt
 
 Here are some ideas to get you started:
 
