@@ -1,10 +1,7 @@
-### Hi there 👋
-
-
-**pedrohrb7/pedrohrb7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 🌱
 
 ![myGitHubStats](https://github-readme-stats.vercel.app/api?username=pedrohrb7&show_icons=true&theme=cobalt)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 Here are some ideas to get you started:
 
