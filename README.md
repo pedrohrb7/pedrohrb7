@@ -1,7 +1,10 @@
 ### Hi there 👋 🌱
 
-![myGitHubStats](https://github-readme-stats.vercel.app/api?username=pedrohrb7&show_icons=true&theme=tokyonight)
+<!-- ![myGitHubStats](https://github-readme-stats.vercel.app/api?username=pedrohrb7&show_icons=true&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7&layout=compact&theme=tokyonight)
+
+- 🔭 I’m currently working at New Way
+- 🌱 I’m currently learning: { Clean Archtecture, TDD, TypeScript }
 
 <!--
 Here are some ideas to get you started:
