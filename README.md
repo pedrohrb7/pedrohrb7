@@ -5,6 +5,7 @@
 
 - 🔭 I’m currently working at New Way
 - 🌱 I’m currently learning: { Clean Archtecture, TDD, TypeScript }
+- 💻 Working as freelancer on a side project with NextJS, React Native and NestJS 
 
 <!--
 Here are some ideas to get you started:
