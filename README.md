@@ -8,7 +8,7 @@
   TDD: 'in Progress', 
   TypeScript: 'in Progress',
   reactNative: 'in Progress',
-  ReactJS: 'in Progress'
+  NextJS: 'in Progress'
 }
 ```
 
