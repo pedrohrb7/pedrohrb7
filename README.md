@@ -1,7 +1,6 @@
 
 # 💫 About Me:
 
-🌱 I’m currently learning:
 ```js
 { 
   cleanArchtecture: 'In Progress', 
