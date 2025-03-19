@@ -3,7 +3,9 @@
 
 ```js
 { 
-  cleanArchtecture: 'In Progress', 
+  cleanArchtecture: 'In Progress',
+  cleaCode: 'In Progress',
+  SOLID: 'In Progress',
   TDD: 'In Progress',
   TypeScript: 'In Progress',
   Infra: [ AWS, Nginx, Docker ],
