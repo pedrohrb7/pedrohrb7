@@ -3,15 +3,15 @@
 
 ```js
 { 
-  cleanArchtecture: 'In Progress',
-  cleaCode: 'In Progress',
-  SOLID: 'In Progress',
-  TDD: 'In Progress',
-  TypeScript: 'In Progress',
+  cleaCode: true,
+  SOLID: true,
+  TDD: true,
   Infra: [ AWS, Nginx, Docker ],
-  BackEnd: [ NestJS, Express ],
-  FrontEnd: [ ReactNative, Expo, NextJS, NuxtJS ],
-  Test: [ Jest, Playwright, ReactTestingLibrary ]
+  stack: {
+    BackEnd: [ NestJS, Express, Spring Boot ],
+    FrontEnd: [ ReactNative, Expo, NextJS, NuxtJS ],
+    Test: [ Jest, Playwright, ReactTestingLibrary ]
+  }
 }
 ```
 
