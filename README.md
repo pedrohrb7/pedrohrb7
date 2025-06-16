@@ -7,10 +7,10 @@
   SOLID: true,
   Infra: [ AWS, Nginx, Docker ],
   stack: {
-    BackEnd: [ NestJS, Express, Spring Boot ],
+    BackEnd: [ NestJS, Express, 'Spring Boot' ],
     FrontEnd: [ ReactNative, Expo, NextJS, NuxtJS ],
   },
-  Test: [ Jest, Playwright, ReactTestingLibrary ]
+  Test: [ Jest, Playwright, 'React Testing Library' ]
 }
 ```
 
