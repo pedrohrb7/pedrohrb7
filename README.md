@@ -1,18 +1,27 @@
+# Hi 👋 I'm Pedro (pedrohrb7)
 
-# 💫 About Me:
+Fullstack software engineer — Java & TypeScript enthusiast. I build reliable backends and polished frontends, ship mobile apps, and enjoy trying new techs, painting, and riding my bicycle.
 
-```js
-{ 
-  cleaCode: true,
-  SOLID: true,
-  Infra: [ AWS, Nginx, Docker ],
-  stack: {
-    BackEnd: [ NestJS, Express, 'Spring Boot' ],
-    FrontEnd: [ ReactNative, Expo, NextJS, NuxtJS ],
-  },
-  Test: [ Jest, Playwright, 'React Testing Library' ]
-}
-```
+## About me
+- Languages & platforms: Java, JavaScript / TypeScript, Node.js, Spring Boot
+- Frontend: React, Next.js, Ant Design, Tailwind CSS
+- Mobile: React Native
+- Backend & frameworks: NestJS, Spring Boot
+- Databases: PostgreSQL, MySQL, MongoDB, Oracle
+- ORMs: TypeORM, Prisma
+- Cloud & infra: AWS
+- Observability: Grafana, New Relic, SigNoz
+- Other: Linux, Docker, REST, GraphQL, Redis, Rabbitmq, Lua, C/C++, N8N
+
+I enjoy designing APIs and data models, implementing robust business logic, and shipping frontend experiences that feel fluid and natural. Outside of code I ride bikes, paint, and experiment with new tools and languages.
+
+## Typical work
+- Architect and implement microservices and REST/GraphQL APIs
+- Build server-rendered and SPA frontends with Next.js and React
+- Implement mobile features and native-feeling flows with React Native
+- Set up CI/CD pipelines, automated testing, and DB migrations
+- Optimize database queries and schema design for scale
+- Instrument applications with metrics, logs, and traces; build Grafana dashboards and APM setups (New Relic / SigNoz); configure alerts and CloudWatch integration on AWS
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohrb/) 
