@@ -36,9 +36,14 @@ Fullstack software developer — Java & TypeScript enthusiast. I build reliable 
  
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-![](https://github-readme-stats.vercel.app/api?username=pedrohrb7&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7&theme=gruvbox&layout=donut&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrohrb7&theme=gruvbox">
+</div>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=pedrohrb7&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohrb7&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pedrohrb7&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
