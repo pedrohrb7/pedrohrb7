@@ -38,7 +38,7 @@ Fullstack software developer — Java & TypeScript enthusiast. I build reliable 
 
 ![](https://github-readme-stats.vercel.app/api?username=pedrohrb7&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pedrohrb7&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7&theme=nord&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pedrohrb7&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
