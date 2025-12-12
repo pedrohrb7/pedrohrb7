@@ -37,8 +37,8 @@ Fullstack software developer — Java & TypeScript enthusiast. I build reliable 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7&theme=gruvbox&layout=donut&hide_border=true">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrohrb7&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohrb7&theme=nord&layout=donut&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedrohrb7&theme=nord">
 </div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=pedrohrb7&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
