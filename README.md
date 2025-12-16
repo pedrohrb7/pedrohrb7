@@ -1,6 +1,6 @@
 # Hi 👋 I'm Pedro (pedrohrb7)
 
-Fullstack software developer — Java & TypeScript enthusiast. I build reliable backends and polished frontends, ship mobile apps, and enjoy trying new techs, painting, rice on linux and riding my bicycle.
+Fullstack software developer — and a Java enthusiast. I build reliable backends and polished frontends, ship mobile apps, and enjoy trying new techs, painting, rice on linux and riding my bicycle.
 
 ## About me
 - Languages & platforms: Java, JavaScript / TypeScript, Node.js, Spring Boot
