@@ -10,7 +10,7 @@ Fullstack software developer — and a Java enthusiast. I build reliable backend
 - Databases: PostgreSQL, MySQL, MongoDB, Oracle
 - ORMs: TypeORM, Prisma
 - Cloud & infra: AWS
-- Observability: Grafana, New Relic, SigNoz
+- Observability: Grafana, New Relic, SigNoz, Graylog
 - Other: Linux, Docker, REST, GraphQL, Redis, Rabbitmq, Lua, C/C++, N8N
 
 ## Typical work
