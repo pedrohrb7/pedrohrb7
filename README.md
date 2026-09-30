@@ -1,6 +1,6 @@
 ```sh
 #!/bin/sh
-# pedro.sh - fullstack developer, java enthusiast
+# pedro.sh - fullstack developer · mobile developer
 
 stack() {
     echo "backend   java, spring boot, typescript, node, nestjs, graphql"
